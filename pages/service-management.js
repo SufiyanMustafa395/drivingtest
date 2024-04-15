@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from 'react';
 import ServiceListingAdmin from '../components/ServiceListingAdmin';
 import CreateServiceForm from '../components/CreateServiceForm'; // Import the CreateServiceForm component
-import { deleteService } from './services'; // Import your API functions
+import { deleteService } from '../services/api'; // Import your API functions
 import { createService } from '../services/api'; // Adjust the path as needed
 import api from '../services/api';
 

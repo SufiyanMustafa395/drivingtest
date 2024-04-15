@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
-import EditServiceForm from './EditServiceForm'; // Import the EditServiceForm component
-import { deleteService } from '../services/api'; // Import the deleteService function
+import EditServiceForm from './EditServiceForm';
+import { deleteService } from '../services/api';
+import styles from '../styles/ServiceListing.module.css';
 
 const ServiceListingAdmin = ({ services, fetchServices }) => {
   const [editingServiceId, setEditingServiceId] = useState(null);
@@ -16,7 +17,6 @@ const ServiceListingAdmin = ({ services, fetchServices }) => {
   const handleDelete = async (serviceId) => {
     try {
       await deleteService(serviceId);
-      // After successful deletion, fetch updated list of services
       fetchServices();
     } catch (error) {
       console.error('Error deleting service:', error);
@@ -24,11 +24,11 @@ const ServiceListingAdmin = ({ services, fetchServices }) => {
   };
 
   return (
-    <div>
+    <div className={styles['service-listing-container']}>
       <h2>Existing Services</h2>
-      <ul>
+      <div className={styles['service-listing']}>
         {services.map(service => (
-          <li key={service._id}>
+          <div key={service._id} className={styles['service-card']}>
             <div>
               <strong>Title:</strong> {service.title}
             </div>
@@ -38,7 +38,7 @@ const ServiceListingAdmin = ({ services, fetchServices }) => {
             <div>
               <strong>Description:</strong> {service.description}
             </div>
-            <div>
+            <div className={styles['button-container']}>
               <button onClick={() => handleDelete(service._id)}>Delete</button>
               {!editingServiceId && (
                 <button onClick={() => handleEditClick(service._id)}>Edit</button>
@@ -49,13 +49,13 @@ const ServiceListingAdmin = ({ services, fetchServices }) => {
                 service={service}
                 onUpdate={() => {
                   handleCancelEdit();
-                  fetchServices(); // Fetch services after successful update
+                  fetchServices();
                 }}
               />
             )}
-          </li>
+          </div>
         ))}
-      </ul>
+      </div>
     </div>
   );
 };
