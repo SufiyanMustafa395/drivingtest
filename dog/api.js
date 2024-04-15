@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'http://localhost:8080',
+  baseURL: 'https://prj-666-server.vercel.app/' /* 'http://localhost:8080'*/,
 });
 
 // Function to create a new dog profile
