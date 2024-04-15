@@ -7,7 +7,7 @@ import { createFeedback } from '../feedback/api';
 const FeedbackPage = () => {
   const router = useRouter();
 
-  // Function to handle creation of a new feedback entry
+
   const handleCreateFeedback = async (formData) => {
     try {
       // Perform API call to create a new feedback entry
