@@ -1,0 +1,256 @@
+[33mcommit 26fd8b01be563a4b470b76ec628797a9d34546de[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 1e89cef 36089a0
+Author: sufiyan mustafa <sufiyanmmustafa@gmail.com>
+Date:   Mon Apr 15 13:13:59 2024 -0400
+
+    Merge branch 'master' of https://github.com/HuuTinh2207/Dog-grooming-app
+
+[33mcommit 1e89cef5809dd78b8b520ae1fb83194727438961[m
+Author: sufiyan mustafa <sufiyanmmustafa@gmail.com>
+Date:   Mon Apr 15 13:13:52 2024 -0400
+
+    feedback customer
+
+[33mcommit 36089a01048fb0a28c1be578b6d3d3cd6888715b[m
+Author: kbaitubayev <kbaitubayev@myseneca.ca>
+Date:   Sun Apr 14 20:40:15 2024 -0400
+
+    appointment management added
+
+[33mcommit 815f77baefd028c8c9e42436fe5268ca70000db5[m
+Author: kbaitubayev <kbaitubayev@myseneca.ca>
+Date:   Sun Apr 14 13:00:33 2024 -0400
+
+    preparing to deploy
+
+[33mcommit a4dc71800a3e713c7c91d057879522005d5d95e5[m
+Author: sufiyan mustafa <sufiyanmmustafa@gmail.com>
+Date:   Fri Apr 12 18:53:23 2024 -0400
+
+    feedback
+
+[33mcommit fafe53b42c779b413cf54ddb29c919e6e5c4d4b6[m
+Author: sufiyan mustafa <sufiyanmmustafa@gmail.com>
+Date:   Mon Apr 8 20:15:40 2024 -0400
+
+    user comments and rating
+
+[33mcommit 02ae4aa6589ce6b21685c0e0c6ecec71b9c729fa[m
+Author: sufiyan mustafa <sufiyanmmustafa@gmail.com>
+Date:   Mon Apr 8 19:03:04 2024 -0400
+
+    feedback entries with average rating
+
+[33mcommit 6a4b1eccaa416e061544d559730094f028368d22[m
+Merge: 5118608 d338121
+Author: sufiyan mustafa <sufiyanmmustafa@gmail.com>
+Date:   Mon Apr 8 15:28:33 2024 -0400
+
+    Merge branch 'master' of https://github.com/HuuTinh2207/Dog-grooming-app
+
+[33mcommit 5118608efc003a9693f5d4ecb58907cc3bddc10d[m
+Author: sufiyan mustafa <sufiyanmmustafa@gmail.com>
+Date:   Mon Apr 8 15:28:22 2024 -0400
+
+    existing feedback entries added
+
+[33mcommit d33812177b1eeb8e510d3f74a2839aa5ba03c10c[m
+Author: Deaca <77636742+HuuTinh2207@users.noreply.github.com>
+Date:   Mon Apr 8 13:30:35 2024 -0400
+
+    Fix updated function
+
+[33mcommit dd8231271a225b9bc9417f128642e234a7cfb5b0[m
+Merge: 13f5dd2 3d9efe0
+Author: Deaca <77636742+HuuTinh2207@users.noreply.github.com>
+Date:   Mon Apr 8 13:10:04 2024 -0400
+
+    Merge branch 'master' of https://github.com/HuuTinh2207/Dog-grooming-app
+
+[33mcommit 13f5dd26b89026810d36ea1760553d8f06ac2f88[m
+Author: Deaca <77636742+HuuTinh2207@users.noreply.github.com>
+Date:   Mon Apr 8 13:10:01 2024 -0400
+
+    Add Generel Term of Service and Cancel confirmation
+
+[33mcommit 3d9efe0946c88cfc209bc774332a084b50e2dbf3[m
+Author: kbaitubayev <kbaitubayev@myseneca.ca>
+Date:   Mon Apr 8 12:38:06 2024 -0400
+
+    partial appointment management added
+
+[33mcommit 472bba7bd4b3fc48a6f4ad2ed08fb4cbbc4bd4c9[m
+Author: Deaca <77636742+HuuTinh2207@users.noreply.github.com>
+Date:   Mon Apr 8 00:50:13 2024 -0400
+
+    Fix some UI
+
+[33mcommit 4f89bf1a5b40d25da2126c1ab20356283268e9d2[m
+Author: Deaca <77636742+HuuTinh2207@users.noreply.github.com>
+Date:   Sun Apr 7 01:45:24 2024 -0400
+
+    Allow user to book appointment without logging in and add payment system
+
+[33mcommit 5d82a9ce1dddeb5ee2921ec6d402f4974ed67c03[m
+Author: Deaca <77636742+HuuTinh2207@users.noreply.github.com>
+Date:   Sun Mar 31 21:35:02 2024 -0400
+
+    Add appointment functionality and update existing appointments
+
+[33mcommit 0155458066f1d59620ac4d16a935925f6b339c1d[m
+Author: Deaca <77636742+HuuTinh2207@users.noreply.github.com>
+Date:   Wed Mar 27 19:27:07 2024 -0400
+
+    Create appointment function completed
+
+[33mcommit da8dac07fa069a427bc9f1ce030f78a71a148b81[m
+Merge: 2e2d203 712aa5f
+Author: Deaca <77636742+HuuTinh2207@users.noreply.github.com>
+Date:   Mon Mar 25 01:05:21 2024 -0400
+
+    Merge branch 'master' of https://github.com/HuuTinh2207/Dog-grooming-app
+
+[33mcommit 2e2d203dbaca81aea67fb66c9c15e2d0f45af17c[m
+Author: Deaca <77636742+HuuTinh2207@users.noreply.github.com>
+Date:   Mon Mar 25 01:05:17 2024 -0400
+
+    Refactor code for improved performance and readability
+
+[33mcommit 712aa5f7f700aa66fe6188544c81a0fa005ef7e2[m
+Author: sufiyan mustafa <sufiyanmmustafa@gmail.com>
+Date:   Mon Mar 25 00:53:09 2024 -0400
+
+    stars rating
+
+[33mcommit e64c61d32e9090a11d2f508815583a79a5fb25bb[m
+Author: sufiyan mustafa <sufiyanmmustafa@gmail.com>
+Date:   Mon Mar 25 00:47:20 2024 -0400
+
+    rating stars
+
+[33mcommit 9d819cab189401c3083753a7bfbabb3c7d698e79[m
+Author: sufiyan mustafa <sufiyanmmustafa@gmail.com>
+Date:   Mon Mar 25 00:40:24 2024 -0400
+
+    feedback submitted successfully message
+
+[33mcommit f012fa5a033cef04ab6ce4e554d10ffdd033e4ba[m
+Author: sufiyan mustafa <sufiyanmmustafa@gmail.com>
+Date:   Mon Mar 25 00:31:25 2024 -0400
+
+    adding a feedback form
+
+[33mcommit e8de4e8d6af9a290095cbaa8cddb4dce398e6625[m
+Author: sufiyan mustafa <sufiyanmmustafa@gmail.com>
+Date:   Sun Mar 24 18:26:22 2024 -0400
+
+    changing button color
+
+[33mcommit 41e9d0042adb0d4eacace0809c5e470788ae7263[m
+Author: sufiyan mustafa <sufiyanmmustafa@gmail.com>
+Date:   Sun Mar 24 18:18:10 2024 -0400
+
+    adding style to dog profile page
+
+[33mcommit d85b354f5e066b99b2c2c1891d9080ad4efc2c03[m
+Author: sufiyan mustafa <sufiyanmmustafa@gmail.com>
+Date:   Sun Mar 24 16:33:23 2024 -0400
+
+    adding/updating/deleting dog
+
+[33mcommit c8c445d0340e714fb5f9bdc01d2ed7371d03a00a[m
+Author: kbaitubayev <kbaitubayev@myseneca.ca>
+Date:   Mon Mar 18 10:20:25 2024 -0400
+
+    password.js fixed
+
+[33mcommit 1443aeb999b506f2b7c27c6e079e81de53f37656[m
+Author: sufiyan mustafa <sufiyanmmustafa@gmail.com>
+Date:   Sun Mar 17 23:34:12 2024 -0400
+
+    commit
+
+[33mcommit df9df48a681b40d37be77dedf0f1430514b00a98[m
+Author: sufiyan mustafa <sufiyanmmustafa@gmail.com>
+Date:   Sun Mar 17 23:18:29 2024 -0400
+
+    rollback password.js
+
+[33mcommit 8f5f754033ea6b0d159ba93c34161e1483dfe117[m
+Author: sufiyan mustafa <sufiyanmmustafa@gmail.com>
+Date:   Sun Mar 17 23:03:11 2024 -0400
+
+    commit
+
+[33mcommit e2bffbabc94b1c02c2e68778c74079854fedf299[m
+Merge: cb7e48f 5c87268
+Author: sufiyan mustafa <sufiyanmmustafa@gmail.com>
+Date:   Sun Mar 17 20:53:54 2024 -0400
+
+    Merge branch 'master' of https://github.com/HuuTinh2207/Dog-grooming-app
+
+[33mcommit cb7e48ff27b90b2de043e415c765516cdf208346[m
+Author: sufiyan mustafa <sufiyanmmustafa@gmail.com>
+Date:   Sun Mar 17 20:51:08 2024 -0400
+
+    commit
+
+[33mcommit 5c87268c19d4847c34377091c5f309721154bfb1[m
+Merge: 2ab07ee c949c55
+Author: kbaitubayev <kbaitubayev@myseneca.ca>
+Date:   Sun Mar 17 17:32:03 2024 -0400
+
+    Merge branch 'master' of https://github.com/HuuTinh2207/Dog-grooming-app
+
+[33mcommit 2ab07eeedbb5e5747742db1ea3466a512c430c36[m
+Author: kbaitubayev <kbaitubayev@myseneca.ca>
+Date:   Sun Mar 17 17:31:50 2024 -0400
+
+    change password implemented
+
+[33mcommit c949c55903ae415178a4919dda6764b96db200fe[m
+Author: sufiyan mustafa <sufiyanmmustafa@gmail.com>
+Date:   Sun Mar 17 15:48:16 2024 -0400
+
+    adding dog profil in nav
+
+[33mcommit d8e2882b67fe2da4ad390822dd19bdf0752163bc[m
+Merge: b43d95e 76afed9
+Author: sufiyan mustafa <sufiyanmmustafa@gmail.com>
+Date:   Sun Mar 17 15:38:37 2024 -0400
+
+    Merge branch 'master' of https://github.com/HuuTinh2207/Dog-grooming-app
+
+[33mcommit b43d95e0da66d07025836f6bd2171a3c43885638[m
+Author: sufiyan mustafa <sufiyanmmustafa@gmail.com>
+Date:   Sun Mar 17 15:31:00 2024 -0400
+
+    adding the dog progile
+
+[33mcommit bc454f44feb7f0dd457b262f7a9a91cd72f0e280[m
+Author: sufiyan mustafa <sufiyanmmustafa@gmail.com>
+Date:   Sun Mar 17 02:41:28 2024 -0400
+
+    commit
+
+[33mcommit 76afed9dc9ca909c30fc12aff38db2b28d33b67c[m
+Merge: 8ec7d6b 1c72c77
+Author: kbaitubayev <kbaitubayev@myseneca.ca>
+Date:   Sat Mar 16 23:09:19 2024 -0400
+
+    Merge branch 'master' of https://github.com/HuuTinh2207/Dog-grooming-app
+
+[33mcommit 8ec7d6b6de521a5fb50d3a525d5a4b5814f2d842[m
+Author: kbaitubayev <kbaitubayev@myseneca.ca>
+Date:   Sat Mar 16 23:07:27 2024 -0400
+
+    services added - create, edit, delete
+
+[33mcommit 1c72c7725e21af950f320d1a965c55df6d48f2c7[m
+Merge: 1ba08cb 54a7f73
+Author: Deaca <77636742+HuuTinh2207@users.noreply.github.com>
+Date:   Thu Mar 14 14:39:12 2024 -0400
+
+    Merge branch 'master' of https://github.com/HuuTinh2207/Dog-grooming-app
+
+[33mcommit 1ba08cb5f765d8e1447b553ff55f083bfc47ccba
